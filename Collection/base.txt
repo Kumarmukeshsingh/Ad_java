@@ -1,0 +1,19 @@
+
+ java version 2.0.0 
+# drow back on collection fream work
+1 inconsistency : Each class had a diffrent way of managing collection, leading to confusion and a steep learnig curve.
+2. lack of inter-operability: 
+3. no common interface : 
+
+
+
+most important 
+ collection
+      list 
+          arrylist , linkedlist  vactor stack copyonwriteArraylist
+      set 
+         haset linkedhaset, trrset, enum set, concurrentSkipListSet , Sortedset
+      queue 
+       
+      deque 
+      map

@@ -1,0 +1,4 @@
+objects :--
+- Object is an instance of a class. All data members and member functions of the class can be accessed with the help of objects
+-An object is created many times as per requirement.
+-An object is a physical entity.
