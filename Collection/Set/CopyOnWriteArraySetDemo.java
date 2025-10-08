@@ -8,10 +8,9 @@ public class CopyOnWriteArraySetDemo {
       // iterators do not reflect modification
       // we can update running time
 
-      CopyOnWriteArraySet<Integer> copyArrayset = new CopyOnWriteArraySet<>();// modify during the itrate 
+      CopyOnWriteArraySet<Integer> copyArrayset = new CopyOnWriteArraySet<>();// modify during the itrate
 
-      ConcurrentSkipListSet<Integer> concurrentSkipListSet = new ConcurrentSkipListSet<>(); 
-      // it is weekly consistant
+      ConcurrentSkipListSet<Integer> concurrentSkipListSet = new ConcurrentSkipListSet<>(); // it is weekly consistant
       // frequent read and write
 
       for (Integer num : copyArrayset) {
